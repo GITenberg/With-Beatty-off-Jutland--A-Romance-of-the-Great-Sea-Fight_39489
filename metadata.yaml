@@ -1,0 +1,40 @@
+_repo: With-Beatty-off-Jutland--A-Romance-of-the-Great-Sea-Fight_39489
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gillett, Frank
+    aliases:
+    - Gillett, F.
+    - Gillett, Edward Frank
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '40046'
+    url: http://www.gutenberg.org/2009/agents/40046
+covers:
+- cover_type: archival
+  image_path: 39489-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2012-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Jutland, Battle of, 1916 -- Juvenile fiction'
+- !lcsh 'Great Britain. Royal Navy -- Juvenile fiction'
+title: 'With Beatty off Jutland: A Romance of the Great Sea Fight'
+url: http://www.gutenberg.org/ebooks/39489
