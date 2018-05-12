@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39489#With-Beatty-off-Jutland--A-Romance-of-the-Great-Sea-Fight
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2012-04-19'
 gutenberg_type: Text
